@@ -1,5 +1,6 @@
 # author: Tiffany Timbers
 # date: 2020-02-23
+# updated: 2020-02-23
 
 """Calculates and prints the square root of a given number.
 Usage: sqrt.py --n=<n>
